@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AnimalToZoo/AnimalToZoo.iml" filepath="$PROJECT_DIR$/AnimalToZoo/AnimalToZoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EployeesHospital/EployeesHospital.iml" filepath="$PROJECT_DIR$/EployeesHospital/EployeesHospital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalE/HospitalE.iml" filepath="$PROJECT_DIR$/HospitalE/HospitalE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module1/HumanToEarth.iml" filepath="$PROJECT_DIR$/Module1/HumanToEarth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2/Module2.iml" filepath="$PROJECT_DIR$/Module2/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP_at_Udemy.iml" filepath="$PROJECT_DIR$/OOP_at_Udemy.iml" />
+    </modules>
+  </component>
+</project>

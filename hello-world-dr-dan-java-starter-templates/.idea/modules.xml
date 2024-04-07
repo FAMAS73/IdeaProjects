@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module_01_Basics/Module_01_Basics.iml" filepath="$PROJECT_DIR$/Module_01_Basics/Module_01_Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_02_Functions_And_Storage/Module_02_Functions_And_Storage.iml" filepath="$PROJECT_DIR$/Module_02_Functions_And_Storage/Module_02_Functions_And_Storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_03_Advanced_OOP/Module_03_Advanced_OOP.iml" filepath="$PROJECT_DIR$/Module_03_Advanced_OOP/Module_03_Advanced_OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_04_Exceptions_And_File_IO/Module_04_Exceptions_And_File_IO.iml" filepath="$PROJECT_DIR$/Module_04_Exceptions_And_File_IO/Module_04_Exceptions_And_File_IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_05_Memory_Org_Lambda_Expressions_And_Datastructures/Module_05_Memory_Org_Lambda_Expressions_And_Datastructures.iml" filepath="$PROJECT_DIR$/Module_05_Memory_Org_Lambda_Expressions_And_Datastructures/Module_05_Memory_Org_Lambda_Expressions_And_Datastructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_06_Threads_GUIs_And_APIs/Module_06_Threads_GUIs_And_APIs.iml" filepath="$PROJECT_DIR$/Module_06_Threads_GUIs_And_APIs/Module_06_Threads_GUIs_And_APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_07_Recursion/Module_07_Recursion.iml" filepath="$PROJECT_DIR$/Module_07_Recursion/Module_07_Recursion.iml" />
+    </modules>
+  </component>
+</project>
